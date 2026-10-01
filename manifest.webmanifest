@@ -1,0 +1,10 @@
+{
+  "name": "MTG Valutazione",
+  "short_name": "MTG Valutazione",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08101d",
+  "theme_color": "#08101d",
+  "description": "Valutazione carte MTG con Scryfall e CardTrader"
+}
